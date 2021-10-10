@@ -2,3 +2,4 @@
 * Premier Pro
 * Illustrator
 * Kine Master
+* After effects
